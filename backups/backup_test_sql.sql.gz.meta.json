@@ -1,0 +1,11 @@
+{
+  "filename": "backup_test_sql.sql.gz",
+  "format": "sql",
+  "size_bytes": 4203,
+  "checksum": "84c577b8bb4e5369e4b0bba85e004a8062e789df241410d24b7da7b2ab75e461",
+  "created_at": "2026-01-18T00:46:48.311152",
+  "database_name": "homefin",
+  "database_version": "PostgreSQL 18.1 on x86_64-windows, compiled by msvc-19.44.35221, 64-bit",
+  "compressed": true,
+  "tables_count": null
+}
